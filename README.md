@@ -9,7 +9,7 @@ Does BPM correlate with insomnia?
 Which variable best predicts whether music improves or worsens mood?
 
 Dataset
-Music & Mental Health Survey Results — available on Kaggle
+Music & Mental Health Survey Results - available on Kaggle
 How to Run
 No installation required. This project runs entirely in Google Colab.
 
@@ -22,7 +22,7 @@ Requirements
 All libraries are pre-installed in Google Colab: pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
 Project Structure
 
-Documentation.pdf — full project documentation
-Music&MentalHealth_FinalCode.ipynb — main analysis notebook (4 parts)
-cleaned_mxmh_data.csv — cleaned dataset (after being cleaned in Part 1)
-mxmh_survey_results.csv — raw dataset
+Documentation.pdf - full project documentation
+Music&MentalHealth_FinalCode.ipynb - main analysis notebook (4 parts)
+cleaned_mxmh_data.csv - cleaned dataset (after being cleaned in Part 1)
+mxmh_survey_results.csv - raw dataset
